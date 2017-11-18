@@ -1,0 +1,20 @@
+{
+  "name": "weighted-header-parser",
+  "version": "0.0.0",
+  "description": "Standard-compliant parser for HTTP headers with quality values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "http",
+    "header",
+    "quality value"
+  ],
+  "author": "Anton Bakhurynskyi",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "sinon": "^4.1.2"
+  }
+}
