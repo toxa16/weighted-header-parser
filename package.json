@@ -1,6 +1,6 @@
 {
   "name": "weighted-header-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Standard-compliant parser for HTTP headers with quality values.",
   "main": "index.js",
   "scripts": {
